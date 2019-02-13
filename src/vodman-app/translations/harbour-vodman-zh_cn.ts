@@ -116,12 +116,12 @@
     <message id="about-translations-zh-cn-label">
         <location filename="../qml/pages/AboutPage.qml" line="182"/>
         <source>Chinese (People&apos;s Republic of China)</source>
-        <translation type="unfinished"></translation>
+        <translation type="dashinfantry"></translation>
     </message>
     <message id="about-translations-zh-cn-value">
         <location filename="../qml/pages/AboutPage.qml" line="184"/>
         <source>names of translators</source>
-        <translation type="unfinished">dashinfantry</translation>
+        <translation type="译者名字">dashinfantry</translation>
     </message>
     <message id="error-youtube-dl-not-working">
         <location filename="../qml/pages/DownloadPage.qml" line="198"/>
